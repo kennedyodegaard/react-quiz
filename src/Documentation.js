@@ -6,7 +6,7 @@ function Documentation(props) {
   return (
     <div className="documentation-page">
       <div className="content">
-        <img className="animated bounceInUp" src={mainImage} alt="Sport Fans" />
+        <img className="animated bounceInUp" src={mainImage} alt="UBF_logo" />
         <p className="animated bounceInLeft">
           You're officially GOLD <br />
           You have access to this entire page of study materials.

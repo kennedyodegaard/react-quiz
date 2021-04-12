@@ -6,7 +6,7 @@ function Start(props) {
   return (
     <div className="start-page">
       <div className="content">
-        <img className="animated bounceInUp" src={mainImage} alt="Sport Fans" />
+        <img className="animated bounceInUp" src={mainImage} alt="UBF_logo" />
         <p className="animated bounceInLeft">
           A REVOLUTION IN AVIATION TRAINING <br />
           NEXT-GENERATION SOFTWARE SOLUTIONS FOR INDIVIDUALS, AIRLINES & ATOS{" "}
